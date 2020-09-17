@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="" />
+	<img src="https://github.com/fayzullayev/react-coin-flip-app/blob/master/public/flip%20card.gif?raw=true" />
 </div> 
 <br/>
 
