@@ -1,0 +1,24 @@
+.Coin {
+  width: 200px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.Coin-placeholder{
+  height: 200px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.flipping {
+  animation: anim ease-in-out 0.5s;
+}
+
+@keyframes anim {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
