@@ -44,7 +44,7 @@ function App() {
       <Coin flipping={state.flipping} coin={state.coin} />
       <br />
       <p>
-        Out of {state.total} flips, there have been {state.heads} heads and
+        Out of {state.total} flips, there have been {state.heads} heads and 
         {state.tails} tails.
       </p>
       <button onClick={flip}>Flip Meee</button>
